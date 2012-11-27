@@ -1,0 +1,18 @@
+This program displays balls bouncing, which make noise 
+as they bounce. They then send a signal to ChucK, which
+outputs a sound. 
+Before starting the program, run 
+chuck --loop & 
+chuck + testSound.ck
+then run the java program. 
+
+The code to connect to chuck is not uploaded yet! 
+Here is only the code for the bouncing balls. 
+It will be necessary to have ChucK installed to run the 
+program.
+
+The point of the program is to produce semi-natural random
+ness and be a kind of random, but adjustable sound-tool,
+where the output sounds can be chosen and possibly 
+edited with in some ways (for reverb, pitch et.c). 
+
